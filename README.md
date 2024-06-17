@@ -1,3 +1,3 @@
 # 7z portable
 7z portable archiver
-Use URL from releases to download
+Use URL to dowload zip-file
